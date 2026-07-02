@@ -108,4 +108,4 @@ Tech Stack
 Python, Streamlit
 PyPDF2, pandas
 Google Gemini 2.5 Flash (direct REST API, v1beta)
-Python re module (Regex)
+Python re module (Regex).
